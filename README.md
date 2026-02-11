@@ -1,2 +1,4 @@
 # bd-portfolio
-This is a Portfolio of all of the websites that I have created over my years as a Computer Scientist
+
+This is a Portfolio of all of my class assignments utilizing HTML, CSS, and Azure in Software Engineering
+
